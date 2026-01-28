@@ -3,8 +3,8 @@ class ClaudeDevCli < Formula
 
   desc "AI-powered CLI tool for developers using Claude API with multi-API routing"
   homepage "https://github.com/thinmanj/claude-dev-cli"
-  url "https://files.pythonhosted.org/packages/48/44/3180e9f6298a0b2af7410db79cf27b0c782e273792d9a9238b8954874379/claude_dev_cli-0.8.4.tar.gz"
-  sha256 "e2ee391a3786e1cd603805d5cf14ba31aedabbea62ca1d99d20165b09fbba4c0"
+  url "https://files.pythonhosted.org/packages/aa/00/abed055d2c6a57f82a95f0e34680f2bf2a1965224bff991273a7c08ea70b/claude_dev_cli-0.8.5.tar.gz"
+  sha256 "a83fc64459bdd90fd2882503e1bce90db4bff8f3531624abd4e9aa71c3ec2f07"
   license "MIT"
 
   depends_on "python@3.11"
